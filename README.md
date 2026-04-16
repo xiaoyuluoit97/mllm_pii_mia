@@ -55,14 +55,8 @@ Repository:
 ```
 https://github.com/iamgroot42/mimir
 ```
-
-Clone into this project:
-
-```
-git clone https://github.com/iamgroot42/mimir mimir
-```
-
 Refer to mimir’s documentation for configuration and execution details.
+
 ------
 > **Ethical Note**  
 > To minimize potential privacy risks, we do not publicly release the specific implementation used to parse PII-related data. A detailed description of the full pipeline is provided in the appendix of the paper.
